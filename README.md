@@ -12,3 +12,5 @@ EDA4_replace_null_values_of_each_class_column_feature_by_refrence_
 EDA5_Missing_Value_imputation_using_Scikit_Learn_SimpleImputer_strategy_used_mean_,constant_value_,_mode
 
 EDA6 Missing value imputation using Scikit_Learn Strategies SimpleImputer,ColumnTransform,Pipeline
+
+EDA7 Label Encoding
